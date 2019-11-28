@@ -1,1 +1,24 @@
+*.iml
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
+/captures
+.externalNativeBuild
+/.idea/
+
+# Android Studio
+.idea
+.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+/*/out
+/*/*/build
+/*/*/production
+*.iws
+*.ipr
+*~
+*.swp
+
+app/src/main/res/raw/credential.json
