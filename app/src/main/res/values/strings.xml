@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CallTranslator</string>
+    <string name="start_talking">Start Recording</string>
+    <string name="api_error">Api Error</string>
+</resources>
